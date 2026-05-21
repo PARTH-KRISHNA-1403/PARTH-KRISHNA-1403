@@ -1,5 +1,6 @@
 ## ✨ Hi, I'm Parth Arora 
 I am a fast learner that is navigating the intersection of Artificial Intelligence, Data Science, and Creative Engineering. Pursuing a rigorous dual-education path.
+
 🎓 B.Tech in CSE - AIML | Maharaja Agrasen Institute of Technology, Delhi (2024 - present)
 🎓 Online BS in Data Science & Applications | IIT Madras (2025 - present)
 
